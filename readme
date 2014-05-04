@@ -1,3 +1,9 @@
 My proj1 readme
 
 This readme file is automatically shown on OctoDroid for Android.
+
+Hub is needed
+Normally git can not create a Repo on server (ie. github.com).
+To make a repo on github using commandline you need hub which can be compiled from source.
+To get it go to
+	https://hub.github.com

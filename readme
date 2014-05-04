@@ -1,5 +1,3 @@
-total 12
-drwxr-xr-x 3 aaa aaa 4096 مه     3 18:16 ./
-drwxr-xr-x 4 aaa aaa 4096 مه     3 18:33 ../
-drwxr-xr-x 8 aaa aaa 4096 مه     4 01:14 .git/
--rw-r--r-- 1 aaa aaa    0 مه     3 18:16 readme
+My proj1 readme
+
+This readme file is automatically shown on OCTOCAT for Android.
